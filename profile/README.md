@@ -9,6 +9,7 @@ To provide strategic and technical intelligence solutions to our clients and the
 
 ### 🛠️ What You'll Find Here
 This organization serves as the public repository for our open-source initiatives, including:
+* **Publication Theme:** We're starting off by releasing the source for our Ghost publication [theme](https://github.com/RavenwoodIntel/ravenwood-theme). We like it. We hope you do, too.
 * **Data Analysis & Visualizations:** We'll add codebases and datasets exploring trends in disparate data.
 * **OSINT & Privacy Tools:** Scripts and resources for secure digital research, managed attribution, and operational security.
 * **Training Resources:** Open-access curriculums grounded in the Intelligence Cycle, focused on practical application over complex technical jargon.
